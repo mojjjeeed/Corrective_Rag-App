@@ -113,6 +113,3 @@ Or run them all sequentially in JupyterLab.
 
 ---
 
-## 📝 License
-
-MIT
